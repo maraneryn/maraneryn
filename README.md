@@ -1,4 +1,4 @@
-# Mara Nery Rocha
+# Mara Nery
 
 Backend Developer | Data Analyst | Business Intelligence
 
