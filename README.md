@@ -33,6 +33,7 @@ Projeto focado na análise integrada de dados de vendas, financeiro e logística
 🔗 [Ver dashboards](https://github.com/maraneryn/analise_logistica)
 🔗 [Ver dashboards](https://github.com/maraneryn/analise_financeiro)
 🔗 [Ver dashboards](https://github.com/maraneryn/analise_vendas)
+
 ---
 
 ### Controle Financeiro (Excel + BI)
